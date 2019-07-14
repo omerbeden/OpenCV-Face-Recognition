@@ -5,3 +5,4 @@ You might think that openCV is getting old day by day according to their framewo
 
 Before I start the coding , after the search , I found a __youtube video__ which teach face recognition using openCV
 you can watch that video here is link : https://www.youtube.com/watch?v=PmZ29Vta7Vc
+
